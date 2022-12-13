@@ -18,4 +18,4 @@ spec:
       - name: java-goof
         image: omearaj/java-goof
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
